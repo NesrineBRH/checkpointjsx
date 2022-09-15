@@ -1,0 +1,10 @@
+h2{
+    background-color: green;
+    color: white;
+    box-sizing: border-box;
+width: auto;
+border: solid #0c1753 10px;
+padding: 5px; margin-left: 25%; margin-right: 25%;
+align-content: center;
+
+}
